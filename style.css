@@ -1,0 +1,22 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+p{
+    opacity: 75%;
+    font-size: small;
+}
+.footer > a {
+    text-decoration: none;
+    color: white;
+}
+
+.podcast{
+    margin-top: -6rem;
+    padding: 10px;
+    color: white;
+}
+.icon{
+    font-size: 2rem;
+}
